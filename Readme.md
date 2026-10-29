@@ -2,7 +2,7 @@
 
 **Snap it. Report it. Fix it.**
 
-Snap2Solve is an open-source tool that turns a photo of a civic problem into a ready-to-send complaint, then keeps pressure on until it is fixed. Built by Team Tech Astra for [Elite Coders CodeSprint 2026](https://unstop.com).
+Snap2Solve is an open-source tool that turns a photo of a civic problem into a ready-to-send complaint, then keeps pressure on until it is fixed. Built by Team Tech Astra for [Elite Coders CodeSprint 2026](https://unstop.com/hackathons/codesprint-2026-elite-coders-1761190).
 
 > **Status:** in development. The MVP is due on 15 November 2026. Items marked *(planned)* are not built yet.
 
